@@ -36,7 +36,6 @@ const urls = [
   'https://user-images.githubusercontent.com/1154834/34272266-784a0600-e644-11e7-92dd-1f0229c3b424.png',
   'https://user-images.githubusercontent.com/1154834/34272267-786434f8-e644-11e7-8281-f109e0468b11.png',
   'https://user-images.githubusercontent.com/1154834/34272268-787ce962-e644-11e7-8fa2-00b246c70b4c.png',
-
 ]
 
 const getRandomInteger = ({max = 10, min = 0}) => {
